@@ -248,7 +248,7 @@ def my_recursive_method # Thanks to Zach for help with this method!
 				puts " "
 			else my_recursive_method
 			end
-	elsif choice == "exit"
+	elsif choice == "exit
 		puts "goodbye..."
 		puts " "
 	else puts "Oops! Please enter a number between 1-17"
